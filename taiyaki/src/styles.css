@@ -1,5 +1,64 @@
-.leaflet-container {
-    width: 80vw;
-    height: 80vh;
-    margin-left: 10vw;
-  }
+body {
+  background-color: white;
+  color: black;
+}
+
+#root {
+  height: 80vh;
+  width: 90vw;
+  padding-left: 5vw;
+  padding-top: 10vh;
+}
+
+.grid {
+  width: 100vw;
+}
+
+.top-grid {
+  height: 50%;
+}
+
+.paper-grey {
+  background-color: #D9D9D9;
+  border-radius: 0;
+  padding-left: 2em;
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+
+.small-paper {
+  padding-left: 1.5em !important;
+  padding-bottom: 1.3em !important;
+  padding-top: 1.4em !important;
+}
+
+.date {
+  font-weight: 700;
+  font-size: 2.6em;
+}
+
+.main-button {
+  color: white;
+  background-color: black;
+  font-weight: 700;
+  font-size: 1.5em;
+  border-radius: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 4em;
+  padding-right: 4em;
+}
+
+.drawer {
+  width: 60vw;
+}
+
+.storage-container {
+  padding-top: 4em;
+  padding-left: 7em;
+}
+
+.storage-header {
+  font-weight: 700;
+  font-size: 2em;
+}
