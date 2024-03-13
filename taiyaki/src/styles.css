@@ -62,3 +62,13 @@ body {
   font-weight: 700;
   font-size: 2em;
 }
+
+.add-matrix-container {
+  cursor: pointer;
+}
+
+.add-matrix-button {
+  vertical-align : middle;
+  margin-right: 0.5em;
+  margin-left: 1.5em;
+}
